@@ -1,0 +1,12 @@
+HAiMS-dashboard/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── index.jsx
+│   └── (your dashboard file — e.g., HaimsDashboard.jsx)
+├── package.json
+├── vite.config.js (or next.config.js if using Next.js)
+├── .gitignore
+└── README.md (optional)
